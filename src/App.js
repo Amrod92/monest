@@ -4,7 +4,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      stocazzo
+      <header className="App-header">
+        <p>Manlio & Massi</p>
+      </header>
     </div>
   );
 }
